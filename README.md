@@ -12,7 +12,7 @@ The project performs an 80/20 stratified train-test split with `random_state=42`
 
 ## c. GitHub Repository Link
 
-Repository: **Add the final GitHub repository URL here before submission.**
+Repository: https://github.com/RavinderSingh1980/ClassificationModels.git
 
 ## d. Models used
 
